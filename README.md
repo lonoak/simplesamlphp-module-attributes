@@ -1,6 +1,6 @@
-#Hub & Spoke utilities for SimpleSAMLphp
+# Hub & Spoke utilities for SimpleSAMLphp
 
-##TargetedID
+## TargetedID
 
 A flexible way for generate one or more values for the [eduPersonTargetedId attribute](http://software.internet2.edu/eduperson/internet2-mace-dir-eduperson-201602.html#eduPersonTargetedID).
 
@@ -24,7 +24,7 @@ Configuration allows:
 
 Read the docs to see all the options.
 
-###Configuration samples
+### Configuration samples
 
 * eduPersonTargetedId with one unique **standard** value:
 ```php
